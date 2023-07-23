@@ -8,10 +8,10 @@
 	font-size: 12px;
 	--color-text: rgba(255,255,255,0.95);
 	--color-bg: #0c0b10;
-	--color-link: rgba(106, 31, 190, 0.9);
-	--color-bg-date: rgb(96 56 178 / 48%);
+	--color-link: rgba(150, 19, 220, 0.69);
+	--color-bg-date: rgba(97, 56, 178, 0);
 	--color-link-hover: rgb(94 54 176 / 75%);
-	--color-border: rgba(177,177,177,0.3);
+	--color-border: rgba(244, 237, 237, 0.368);
 }
 
 body {
